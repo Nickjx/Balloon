@@ -4,8 +4,6 @@
 
 ## 🎮 Демо
 
-![Screen-Recording-2025-06-09-at-16 37 28](https://github.com/user-attachments/assets/cb4e225e-91da-42af-9054-bcccd452d34b)
-
 
 [🚀 Спробувати гру](https://nickjx.github.io/Balloon/)
 
