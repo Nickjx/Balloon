@@ -4,8 +4,6 @@ const styleSheet = new CSSStyleSheet();
 // console.dir(boxEl);
 // console.dir(balloonEl);
 
-//* Make our page preetier
-
 styleSheet.replaceSync(`
   * {
   box-sizing: border-box;
@@ -39,8 +37,6 @@ body {
 }`);
 
 document.adoptedStyleSheets = [styleSheet];
-
-//* main logic of program
 
 addEventListener('keyup', changeSize);
 
